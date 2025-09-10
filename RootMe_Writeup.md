@@ -1,4 +1,6 @@
-# RootMe - TryHackMe Writeup
+# RootMe - TryHackMe Writeup  
+
+**Author:** Koushiq Murad
 
 ## Overview
 RootMe is a beginner-friendly CTF on TryHackMe that teaches the fundamentals of:
