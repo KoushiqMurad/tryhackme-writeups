@@ -1,4 +1,6 @@
-# 🏴‍☠️ TryHackMe — Bounty Hacker Writeup
+# Bounty Hacker - TryHackMe Writeup  
+
+**Author:** Koushiq Murad  
 
 > **Difficulty:** Easy  
 > **Category:** Web / Linux / PrivEsc  
