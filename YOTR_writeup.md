@@ -1,5 +1,6 @@
-# Year of the Rabbit - TryHackMe Writeup
-*Author: Koushiq Murad*
+# Year of the Rabbit - TryHackMe Writeup  
+
+**Author:** Koushiq Murad
 
 
 ## Overview  
