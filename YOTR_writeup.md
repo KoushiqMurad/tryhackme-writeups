@@ -1,4 +1,6 @@
-# Year of the Rabbit – TryHackMe Writeup
+# Year of the Rabbit - TryHackMe Writeup
+*Author: Koushiq Murad*
+
 
 ## Overview  
 **Year of the Rabbit** is categorized as an *Easy* room, but it packs several clever puzzles: steganography, FTP brute-forcing, Brainfuck decoding, and a subtle privilege escalation via a `sudo` vulnerability (CVE-2019-14287).
