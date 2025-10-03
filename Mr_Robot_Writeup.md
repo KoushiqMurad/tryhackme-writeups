@@ -10,8 +10,6 @@
 This report documents a full compromise of the **Mr Robot** TryHackMe box.  
 Short chain: **Recon (nmap + gobuster) → discover `robots.txt` & hidden files → decode credentials (Base64) → login to WordPress → edit theme to get a PHP reverse shell → enumerate, find hashed password → crack to `robot` → read user flag → discover SUID `nmap` → abuse via GTFOBins to spawn a root shell → read root flag.  
 
-> **Flags/keys are intentionally omitted from this writeup.** Replace placeholders below with the actual flags you captured when you submit to TryHackMe or push to GitHub.
-
 ---
 
 ## Environment
@@ -28,7 +26,7 @@ Short chain: **Recon (nmap + gobuster) → discover `robots.txt` & hidden files 
 ---
 
 ## Objective
-Capture three keys (key1, key2, key3). Documented here are the commands, rationale, and artifacts you should include in a GitHub-ready report. This writeup is authored as **Koushiq Murad**.
+Capture three keys (key1, key2, key3). Documented here are the commands, rationale, and artifacts you should include in a GitHub-ready report. This writeup is authored by **Koushiq Murad**.
 
 ---
 
