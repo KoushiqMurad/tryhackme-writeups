@@ -68,7 +68,7 @@ echo 'BASE64_STRING' | base64 -d
 ```
 That decoded output provided WordPress credentials (username and password). Keep those safe.
 
-> **Captured:** Key 1 was found directly via web enumeration (do **not** publish the key here).
+> **Captured:** Key 1 was found directly via web enumeration 
 
 ---
 
