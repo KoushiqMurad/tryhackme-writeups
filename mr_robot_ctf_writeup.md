@@ -11,8 +11,6 @@
 
 This writeup documents the steps I used to fully compromise the **Mr Robot** TryHackMe machine: initial reconnaissance, web enumeration, credential discovery (base64 in `license` / `robots.txt`), WordPress exploitation by editing a theme page to upload a PHP reverse shell, initial user access, cracking a discovered MD5 hash to `robot` user credentials, and final privilege escalation by abusing an SUID `nmap` binary (GTFOBins technique) to obtain a root shell and capture the final key.
 
-**Note:** Replace the placeholder flags below with the actual flags you captured while completing the room.
-
 ---
 
 ## Environment
