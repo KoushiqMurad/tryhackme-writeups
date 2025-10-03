@@ -1,5 +1,3 @@
-Markdown
-
 # TryHackMe: Mr. Robot CTF Writeup
 
 ## Written by: Koushiq Murad
@@ -171,3 +169,4 @@ cat /root/key-3-of-3.txt
 Conclusion
 
 I successfully completed the entire TryHackMe Mr. Robot CTF. It was a rewarding process that tested multiple phases of penetration testing. I found all three keys and achieved root access!
+
