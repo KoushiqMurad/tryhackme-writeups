@@ -228,19 +228,6 @@ cat /root/root.txt
 
 ---
 
-## Recommended artifacts (what to push to GitHub)
-Include the following in your repo (safely):
-- `nmap` output (initial + targeted) — `nmap/initial.nmap`, `nmap/targeted.nmap`
-- `gobuster` output — `gobuster/root.txt`
-- `robots.txt` (screenshot or saved file) — redact keys if you keep a public repo
-- A screenshot of WordPress Theme Editor before/after editing
-- `nc` listener output showing incoming reverse shell (screenshot)
-- `su robot` and `whoami` outputs (as robot)
-- `sudo find / -type f -perm /6000` output showing `nmap`
-- Screenshot of root shell and `cat /root/root.txt` — **do not post actual flags publicly**; instead show blurred/redacted flag images if you're publishing the repo
-
----
-
 ## Closing / Final Notes
 This box is a great medium-level exercise that ties together web enumeration, credential discovery, WordPress exploitation, local hash cracking, and classic Linux privilege escalation via SUID abuse. The steps and commands above were used to capture all three keys during my session — the flags are intentionally **not** included here.
 
